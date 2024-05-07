@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01f17f8a.css",
+    "main.js": "/static/js/main.a1d4cf4c.js",
+    "static/media/fish.jpg": "/static/media/fish.fd99c2d5105f54bb1b98.jpg",
+    "static/media/cats.jpg": "/static/media/cats.b5737f84eb993b326154.jpg",
+    "static/media/birds.jpg": "/static/media/birds.fb299aabe94c3501cbfe.jpg",
+    "static/media/FELINE GREENIES.png": "/static/media/FELINE GREENIES.4dcdf5f68f556b252d34.png",
+    "static/media/Health Extension.png": "/static/media/Health Extension.5137bc1161a0ff4995f1.png",
+    "static/media/Premium Clumpi.png": "/static/media/Premium Clumpi.26cd3437a8c1fda7a7a8.png",
+    "static/media/contact-s9UdB8WU.jpg": "/static/media/contact-s9UdB8WU.cebbd1a670ba50b590ac.jpg",
+    "static/media/dog-bg-ZFqMikDp.png": "/static/media/dog-bg-ZFqMikDp.c40d1299276f2e7674db.png",
+    "static/media/Wag Dry Dog Food.jpg": "/static/media/Wag Dry Dog Food.527b53b63bf3f2b633ca.jpg",
+    "static/media/Purina ONE Natural Dry Cat Food.jpg": "/static/media/Purina ONE Natural Dry Cat Food.b81b597eceab0c041b00.jpg",
+    "static/media/Blue Buffalo Life Protection.jpg": "/static/media/Blue Buffalo Life Protection.b018f27f92f37384055e.jpg",
+    "static/media/hostel3.jpg": "/static/media/hostel3.94a5d39ad1a31a922d92.jpg",
+    "static/media/hostel2.jpg": "/static/media/hostel2.758e0ba7d833627ddf99.jpg",
+    "static/media/cat1-f4bgluUa.jpg": "/static/media/cat1-f4bgluUa.2f08802601d990adf765.jpg",
+    "static/media/dog1-UfLhM4Dh.jpg": "/static/media/dog1-UfLhM4Dh.e2c9afc3da3d22cca9c6.jpg",
+    "static/media/layer-1MnSLsjs.png": "/static/media/layer-1MnSLsjs.03265c3e3748d5521cb2.png",
+    "static/media/hostel3.jpeg": "/static/media/hostel3.19a4da0f49647d76509e.jpeg",
+    "static/media/dogs.jpeg": "/static/media/dogs.4eff530cabdf0b8b98da.jpeg",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.01f17f8a.css.map": "/static/css/main.01f17f8a.css.map",
+    "main.a1d4cf4c.js.map": "/static/js/main.a1d4cf4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f17f8a.css",
+    "static/js/main.a1d4cf4c.js"
+  ]
+}
